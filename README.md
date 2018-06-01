@@ -1,2 +1,0 @@
-# proxy
-btccpool mining proxy 
